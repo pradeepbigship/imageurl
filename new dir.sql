@@ -1,0 +1,1 @@
+ALTER TABLE images ADD COLUMN directory VARCHAR(255) AFTER url_path;
